@@ -1,2 +1,2 @@
-# Gorilla-Tag-Mods
+# Gorilla-Tag-Quest-Mods
 All the mods
